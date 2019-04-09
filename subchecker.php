@@ -19,7 +19,7 @@ if ( $argc < 2 ){
  |_____/ \__,_|_.__/|___/\___|_|  |_|_.__/ \___|
 
 ";
-  exit( "[??] Youtube Subscribe Checker [??]\n[??]   Pangeran Alvins   [??]\n----------------------------------\nPerintah: subcheker.php <URL YouToube>\n\n\n" );
+  exit( "[??] Youtube Subscribe Checker [??]\n[??]   Pangeran Alvins   [??]\n----------------------------------\nPerintah: subchecker.php <URL YouToube>\n\n\n" );
 }
 // Config //
   print " __     __      _______    _                    
